@@ -1,0 +1,9 @@
+Employee Contract
+
+Available Versions:
+Version 1
+Version 2
+
+This contract contains employee obligations,
+confidentiality requirements, penalties,
+renewal requirements and deadlines.

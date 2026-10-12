@@ -1,0 +1,7 @@
+Employee Contract
+
+The employee must report to work at 9 AM.
+The employee must maintain confidentiality.
+The contract is valid for 24 months.
+Penalty for violation is 10000.
+The renewal deadline is 60 days before expiration.
