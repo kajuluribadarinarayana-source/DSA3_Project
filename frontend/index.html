@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>frontend</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
+
+<section class="card">
+    <h2>Add Contract</h2>
+
+    <label for="contractName">Contract Name</label>
+    <input id="contractName" placeholder="e.g. Employee Agreement">
+
+    <label for="contractText">Contract Text</label>
+    <textarea id="contractText"
+        placeholder="Enter the contract content..."></textarea>
+
+    <button id="addContractButton">Save Contract</button>
+    <p id="formMessage"></p>
+</section>
+
+<section class="card">
+    <h2>Available Contracts</h2>
+    <div id="contractList">Loading contracts...</div>
+</section>
+
